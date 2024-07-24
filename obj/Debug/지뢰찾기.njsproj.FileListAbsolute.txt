@@ -1,0 +1,3 @@
+C:\Users\신재한\Desktop\js\지뢰찾기\obj\Debug\지뢰찾기.njsproj.AssemblyReference.cache
+C:\Users\신재한\Desktop\js\지뢰찾기\obj\Debug\지뢰찾기.njsproj.CoreCompileInputs.cache
+C:\Users\신재한\Desktop\js\지뢰찾기\bin\Microsoft.NodejsTools.WebRole.dll
