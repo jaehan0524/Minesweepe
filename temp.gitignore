@@ -1,0 +1,7 @@
+# Visual Studio 관련 파일 및 디렉터리를 무시합니다
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
